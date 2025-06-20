@@ -13,6 +13,4 @@ def increment_counter
     format.html { redirect_to root_path }
   end
 end
-
-
 end
